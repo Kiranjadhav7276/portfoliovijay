@@ -1,0 +1,33 @@
+.home{
+    background: rgb(215,32,32);
+background: linear-gradient(132deg, rgba(215,32,32,1) 0%, rgba(255,255,255,1) 66%, rgba(255,255,255,1) 66%, rgba(215,32,32,1) 100%); 
+}
+
+.about{
+    background: rgb(15,9,149);
+background: linear-gradient(0deg, rgba(15,9,149,1) 0%, rgba(210,238,239,1) 100%, rgba(131,119,8,1) 100%, rgba(120,127,29,1) 100%, rgba(0,212,255,1) 100%);
+
+}
+
+.skills{
+    background: rgb(255,3,0);
+    background: linear-gradient(0deg, rgba(255,3,0,1) 0%, rgba(239,228,210,1) 100%, rgba(131,119,8,1) 100%, rgba(120,127,29,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+.portfolio{
+    background: rgb(15,9,149);
+background: linear-gradient(0deg, rgba(15,9,149,1) 0%, rgba(210,238,239,1) 100%, rgba(131,119,8,1) 100%, rgba(120,127,29,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+.contact{
+    background: rgb(255,3,0);
+    background: linear-gradient(0deg, rgba(255,3,0,1) 0%, rgba(239,228,210,1) 100%, rgba(131,119,8,1) 100%, rgba(120,127,29,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+.smile-image{
+    border-radius: 50%;
+}
+
+section{
+    z-index: 1;
+}
